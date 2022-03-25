@@ -20,9 +20,9 @@
 
   <br/>
   <p align="center">
-  <a href="https://www.linkedin.com/in/kayle-/"><img alt="Linkedin" title="Linkedin Kayle" src="https://img.shields.io/badge/-Kayle%20Barreto-4400ff?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kayle-/" target="_blank"><img alt="Linkedin" title="Linkedin Kayle" src="https://img.shields.io/badge/-Kayle%20Barreto-4400ff?style=flat&logo=Linkedin&logoColor=white"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:kayle.barrt@gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/-kayle.barrt@gmail.com-4400ff?style=flat&logo=Gmail&logoColor=white&link=mailto:kayle.barrt@gmail.com"/></a>
+  <a href="mailto:kayle.barrt@gmail.com" target="_blank"><img alt="Gmail" title="Gmail Kayle" src="https://img.shields.io/badge/-kayle.barrt@gmail.com-4400ff?style=flat&logo=Gmail&logoColor=white&link=mailto:kayle.barrt@gmail.com"/></a>
   </p>
 
 #
